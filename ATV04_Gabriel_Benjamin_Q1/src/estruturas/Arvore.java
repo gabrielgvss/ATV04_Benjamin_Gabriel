@@ -1,5 +1,8 @@
 package estruturas;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Arvore<T extends Comparable<T>> {
     public NoArvore<T> raiz;
     public int tamanho;
@@ -93,6 +96,24 @@ public class Arvore<T extends Comparable<T>> {
             posOrdem(aux.getEsquerdo());
             posOrdem(aux.getDireito());
             System.out.println(aux.getElemento());
+        }
+    }
+
+    // Na classe Arvore
+
+    // Método para obter todos os elementos da árvore em ordem
+    public List<T> obterTodos() {
+        List<T> elementos = new ArrayList<>();
+        obterTodos(raiz, elementos);
+        return elementos;
+    }
+
+    // Método auxiliar para a travessia em ordem recursiva
+    private void obterTodos(NoArvore<T> no, List<T> elementos) {
+        if (no != null) {
+            obterTodos(no.getEsquerdo(), elementos);
+            elementos.add(no.getElemento());
+            obterTodos(no.getDireito(), elementos);
         }
     }
 
