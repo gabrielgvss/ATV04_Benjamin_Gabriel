@@ -1,301 +1,301 @@
-Hash inteiro RIPEMD-128 gerado para a chave: id0: 12
-Hash inteiro RIPEMD-128 gerado para a chave: id1: 5
-Hash inteiro RIPEMD-128 gerado para a chave: id2: 19
-Hash inteiro RIPEMD-128 gerado para a chave: id3: 7
-Hash inteiro RIPEMD-128 gerado para a chave: id4: 14
-Hash inteiro RIPEMD-128 gerado para a chave: id5: 4
-Hash inteiro RIPEMD-128 gerado para a chave: id6: 16
-Hash inteiro RIPEMD-128 gerado para a chave: id7: 18
-Hash inteiro RIPEMD-128 gerado para a chave: id8: 11
-Hash inteiro RIPEMD-128 gerado para a chave: id9: 19
-Hash inteiro RIPEMD-128 gerado para a chave: id10: 4
-Hash inteiro RIPEMD-128 gerado para a chave: id11: 19
-Hash inteiro RIPEMD-128 gerado para a chave: id12: 16
-Hash inteiro RIPEMD-128 gerado para a chave: id13: 10
-Hash inteiro RIPEMD-128 gerado para a chave: id14: 15
-Hash inteiro RIPEMD-128 gerado para a chave: id15: 9
-Hash inteiro RIPEMD-128 gerado para a chave: id16: 4
-Hash inteiro RIPEMD-128 gerado para a chave: id17: 13
-Hash inteiro RIPEMD-128 gerado para a chave: id18: 29
-Hash inteiro RIPEMD-128 gerado para a chave: id19: 12
-Hash inteiro RIPEMD-128 gerado para a chave: id20: 20
-Hash inteiro RIPEMD-128 gerado para a chave: id21: 16
-Hash inteiro RIPEMD-128 gerado para a chave: id22: 35
-Hash inteiro RIPEMD-128 gerado para a chave: id23: 20
-Hash inteiro RIPEMD-128 gerado para a chave: id24: 8
-Hash inteiro RIPEMD-128 gerado para a chave: id25: 33
-Hash inteiro RIPEMD-128 gerado para a chave: id26: 37
-Hash inteiro RIPEMD-128 gerado para a chave: id27: 2
-Hash inteiro RIPEMD-128 gerado para a chave: id28: 64
-Hash inteiro RIPEMD-128 gerado para a chave: id29: 51
-Hash inteiro RIPEMD-128 gerado para a chave: id30: 54
-Hash inteiro RIPEMD-128 gerado para a chave: id31: 43
-Hash inteiro RIPEMD-128 gerado para a chave: id32: 22
-Hash inteiro RIPEMD-128 gerado para a chave: id33: 4
-Hash inteiro RIPEMD-128 gerado para a chave: id34: 45
-Hash inteiro RIPEMD-128 gerado para a chave: id35: 14
-Hash inteiro RIPEMD-128 gerado para a chave: id36: 77
-Hash inteiro RIPEMD-128 gerado para a chave: id37: 4
-Hash inteiro RIPEMD-128 gerado para a chave: id38: 9
-Hash inteiro RIPEMD-128 gerado para a chave: id39: 25
-Hash inteiro RIPEMD-128 gerado para a chave: id40: 56
-Hash inteiro RIPEMD-128 gerado para a chave: id41: 55
-Hash inteiro RIPEMD-128 gerado para a chave: id42: 17
-Hash inteiro RIPEMD-128 gerado para a chave: id43: 76
-Hash inteiro RIPEMD-128 gerado para a chave: id44: 33
-Hash inteiro RIPEMD-128 gerado para a chave: id45: 73
-Hash inteiro RIPEMD-128 gerado para a chave: id46: 67
-Hash inteiro RIPEMD-128 gerado para a chave: id47: 20
-Hash inteiro RIPEMD-128 gerado para a chave: id48: 45
-Hash inteiro RIPEMD-128 gerado para a chave: id49: 49
-Hash inteiro RIPEMD-128 gerado para a chave: id50: 21
-Hash inteiro RIPEMD-128 gerado para a chave: id51: 64
-Hash inteiro RIPEMD-128 gerado para a chave: id52: 67
-Hash inteiro RIPEMD-128 gerado para a chave: id53: 76
-Hash inteiro RIPEMD-128 gerado para a chave: id54: 58
-Hash inteiro RIPEMD-128 gerado para a chave: id55: 53
-Hash inteiro RIPEMD-128 gerado para a chave: id56: 61
-Hash inteiro RIPEMD-128 gerado para a chave: id57: 147
-Hash inteiro RIPEMD-128 gerado para a chave: id58: 88
-Hash inteiro RIPEMD-128 gerado para a chave: id59: 148
-Hash inteiro RIPEMD-128 gerado para a chave: id60: 56
-Hash inteiro RIPEMD-128 gerado para a chave: id61: 60
-Hash inteiro RIPEMD-128 gerado para a chave: id62: 114
-Hash inteiro RIPEMD-128 gerado para a chave: id63: 157
-Hash inteiro RIPEMD-128 gerado para a chave: id64: 8
-Hash inteiro RIPEMD-128 gerado para a chave: id65: 48
-Hash inteiro RIPEMD-128 gerado para a chave: id66: 118
-Hash inteiro RIPEMD-128 gerado para a chave: id67: 133
-Hash inteiro RIPEMD-128 gerado para a chave: id68: 42
-Hash inteiro RIPEMD-128 gerado para a chave: id69: 100
-Hash inteiro RIPEMD-128 gerado para a chave: id70: 59
-Hash inteiro RIPEMD-128 gerado para a chave: id71: 125
-Hash inteiro RIPEMD-128 gerado para a chave: id72: 49
-Hash inteiro RIPEMD-128 gerado para a chave: id73: 22
-Hash inteiro RIPEMD-128 gerado para a chave: id74: 32
-Hash inteiro RIPEMD-128 gerado para a chave: id75: 70
-Hash inteiro RIPEMD-128 gerado para a chave: id76: 96
-Hash inteiro RIPEMD-128 gerado para a chave: id77: 38
-Hash inteiro RIPEMD-128 gerado para a chave: id78: 63
-Hash inteiro RIPEMD-128 gerado para a chave: id79: 128
-Hash inteiro RIPEMD-128 gerado para a chave: id80: 49
-Hash inteiro RIPEMD-128 gerado para a chave: id81: 149
-Hash inteiro RIPEMD-128 gerado para a chave: id82: 99
-Hash inteiro RIPEMD-128 gerado para a chave: id83: 29
-Hash inteiro RIPEMD-128 gerado para a chave: id84: 96
-Hash inteiro RIPEMD-128 gerado para a chave: id85: 123
-Hash inteiro RIPEMD-128 gerado para a chave: id86: 7
-Hash inteiro RIPEMD-128 gerado para a chave: id87: 30
-Hash inteiro RIPEMD-128 gerado para a chave: id88: 21
-Hash inteiro RIPEMD-128 gerado para a chave: id89: 96
-Hash inteiro RIPEMD-128 gerado para a chave: id90: 145
-Hash inteiro RIPEMD-128 gerado para a chave: id91: 70
-Hash inteiro RIPEMD-128 gerado para a chave: id92: 96
-Hash inteiro RIPEMD-128 gerado para a chave: id93: 13
-Hash inteiro RIPEMD-128 gerado para a chave: id94: 150
-Hash inteiro RIPEMD-128 gerado para a chave: id95: 46
-Hash inteiro RIPEMD-128 gerado para a chave: id96: 85
-Hash inteiro RIPEMD-128 gerado para a chave: id97: 38
-Hash inteiro RIPEMD-128 gerado para a chave: id98: 18
-Hash inteiro RIPEMD-128 gerado para a chave: id99: 123
-Hash inteiro RIPEMD-128 gerado para a chave: id100: 93
-Hash inteiro RIPEMD-128 gerado para a chave: id101: 142
-Hash inteiro RIPEMD-128 gerado para a chave: id102: 136
-Hash inteiro RIPEMD-128 gerado para a chave: id103: 130
-Hash inteiro RIPEMD-128 gerado para a chave: id104: 55
-Hash inteiro RIPEMD-128 gerado para a chave: id105: 146
-Hash inteiro RIPEMD-128 gerado para a chave: id106: 55
-Hash inteiro RIPEMD-128 gerado para a chave: id107: 88
-Hash inteiro RIPEMD-128 gerado para a chave: id108: 48
-Hash inteiro RIPEMD-128 gerado para a chave: id109: 61
-Hash inteiro RIPEMD-128 gerado para a chave: id110: 69
-Hash inteiro RIPEMD-128 gerado para a chave: id111: 57
-Hash inteiro RIPEMD-128 gerado para a chave: id112: 183
-Hash inteiro RIPEMD-128 gerado para a chave: id113: 245
-Hash inteiro RIPEMD-128 gerado para a chave: id114: 56
-Hash inteiro RIPEMD-128 gerado para a chave: id115: 62
-Hash inteiro RIPEMD-128 gerado para a chave: id116: 209
-Hash inteiro RIPEMD-128 gerado para a chave: id117: 314
-Hash inteiro RIPEMD-128 gerado para a chave: id118: 161
-Hash inteiro RIPEMD-128 gerado para a chave: id119: 61
-Hash inteiro RIPEMD-128 gerado para a chave: id120: 298
-Hash inteiro RIPEMD-128 gerado para a chave: id121: 279
-Hash inteiro RIPEMD-128 gerado para a chave: id122: 147
-Hash inteiro RIPEMD-128 gerado para a chave: id123: 207
-Hash inteiro RIPEMD-128 gerado para a chave: id124: 22
-Hash inteiro RIPEMD-128 gerado para a chave: id125: 186
-Hash inteiro RIPEMD-128 gerado para a chave: id126: 148
-Hash inteiro RIPEMD-128 gerado para a chave: id127: 61
-Hash inteiro RIPEMD-128 gerado para a chave: id128: 87
-Hash inteiro RIPEMD-128 gerado para a chave: id129: 50
-Hash inteiro RIPEMD-128 gerado para a chave: id130: 72
-Hash inteiro RIPEMD-128 gerado para a chave: id131: 62
-Hash inteiro RIPEMD-128 gerado para a chave: id132: 140
-Hash inteiro RIPEMD-128 gerado para a chave: id133: 43
-Hash inteiro RIPEMD-128 gerado para a chave: id134: 89
-Hash inteiro RIPEMD-128 gerado para a chave: id135: 110
-Hash inteiro RIPEMD-128 gerado para a chave: id136: 51
-Hash inteiro RIPEMD-128 gerado para a chave: id137: 191
-Hash inteiro RIPEMD-128 gerado para a chave: id138: 287
-Hash inteiro RIPEMD-128 gerado para a chave: id139: 255
-Hash inteiro RIPEMD-128 gerado para a chave: id140: 245
-Hash inteiro RIPEMD-128 gerado para a chave: id141: 7
-Hash inteiro RIPEMD-128 gerado para a chave: id142: 215
-Hash inteiro RIPEMD-128 gerado para a chave: id143: 123
-Hash inteiro RIPEMD-128 gerado para a chave: id144: 98
-Hash inteiro RIPEMD-128 gerado para a chave: id145: 73
-Hash inteiro RIPEMD-128 gerado para a chave: id146: 291
-Hash inteiro RIPEMD-128 gerado para a chave: id147: 7
-Hash inteiro RIPEMD-128 gerado para a chave: id148: 97
-Hash inteiro RIPEMD-128 gerado para a chave: id149: 34
-Hash inteiro RIPEMD-128 gerado para a chave: id150: 121
-Hash inteiro RIPEMD-128 gerado para a chave: id151: 313
-Hash inteiro RIPEMD-128 gerado para a chave: id152: 45
-Hash inteiro RIPEMD-128 gerado para a chave: id153: 47
-Hash inteiro RIPEMD-128 gerado para a chave: id154: 175
-Hash inteiro RIPEMD-128 gerado para a chave: id155: 266
-Hash inteiro RIPEMD-128 gerado para a chave: id156: 259
-Hash inteiro RIPEMD-128 gerado para a chave: id157: 145
-Hash inteiro RIPEMD-128 gerado para a chave: id158: 302
-Hash inteiro RIPEMD-128 gerado para a chave: id159: 152
-Hash inteiro RIPEMD-128 gerado para a chave: id160: 42
-Hash inteiro RIPEMD-128 gerado para a chave: id161: 270
-Hash inteiro RIPEMD-128 gerado para a chave: id162: 295
-Hash inteiro RIPEMD-128 gerado para a chave: id163: 242
-Hash inteiro RIPEMD-128 gerado para a chave: id164: 296
-Hash inteiro RIPEMD-128 gerado para a chave: id165: 39
-Hash inteiro RIPEMD-128 gerado para a chave: id166: 69
-Hash inteiro RIPEMD-128 gerado para a chave: id167: 121
-Hash inteiro RIPEMD-128 gerado para a chave: id168: 123
-Hash inteiro RIPEMD-128 gerado para a chave: id169: 278
-Hash inteiro RIPEMD-128 gerado para a chave: id170: 10
-Hash inteiro RIPEMD-128 gerado para a chave: id171: 104
-Hash inteiro RIPEMD-128 gerado para a chave: id172: 56
-Hash inteiro RIPEMD-128 gerado para a chave: id173: 10
-Hash inteiro RIPEMD-128 gerado para a chave: id174: 284
-Hash inteiro RIPEMD-128 gerado para a chave: id175: 292
-Hash inteiro RIPEMD-128 gerado para a chave: id176: 44
-Hash inteiro RIPEMD-128 gerado para a chave: id177: 271
-Hash inteiro RIPEMD-128 gerado para a chave: id178: 95
-Hash inteiro RIPEMD-128 gerado para a chave: id179: 316
-Hash inteiro RIPEMD-128 gerado para a chave: id180: 237
-Hash inteiro RIPEMD-128 gerado para a chave: id181: 277
-Hash inteiro RIPEMD-128 gerado para a chave: id182: 273
-Hash inteiro RIPEMD-128 gerado para a chave: id183: 108
-Hash inteiro RIPEMD-128 gerado para a chave: id184: 87
-Hash inteiro RIPEMD-128 gerado para a chave: id185: 272
-Hash inteiro RIPEMD-128 gerado para a chave: id186: 107
-Hash inteiro RIPEMD-128 gerado para a chave: id187: 41
-Hash inteiro RIPEMD-128 gerado para a chave: id188: 250
-Hash inteiro RIPEMD-128 gerado para a chave: id189: 99
-Hash inteiro RIPEMD-128 gerado para a chave: id190: 24
-Hash inteiro RIPEMD-128 gerado para a chave: id191: 312
-Hash inteiro RIPEMD-128 gerado para a chave: id192: 265
-Hash inteiro RIPEMD-128 gerado para a chave: id193: 23
-Hash inteiro RIPEMD-128 gerado para a chave: id194: 155
-Hash inteiro RIPEMD-128 gerado para a chave: id195: 145
-Hash inteiro RIPEMD-128 gerado para a chave: id196: 39
-Hash inteiro RIPEMD-128 gerado para a chave: id197: 203
-Hash inteiro RIPEMD-128 gerado para a chave: id198: 138
-Hash inteiro RIPEMD-128 gerado para a chave: id199: 316
-Hash inteiro RIPEMD-128 gerado para a chave: id200: 117
-Hash inteiro RIPEMD-128 gerado para a chave: id201: 314
-Hash inteiro RIPEMD-128 gerado para a chave: id202: 205
-Hash inteiro RIPEMD-128 gerado para a chave: id203: 134
-Hash inteiro RIPEMD-128 gerado para a chave: id204: 85
-Hash inteiro RIPEMD-128 gerado para a chave: id205: 122
-Hash inteiro RIPEMD-128 gerado para a chave: id206: 301
-Hash inteiro RIPEMD-128 gerado para a chave: id207: 40
-Hash inteiro RIPEMD-128 gerado para a chave: id208: 222
-Hash inteiro RIPEMD-128 gerado para a chave: id209: 128
-Hash inteiro RIPEMD-128 gerado para a chave: id210: 61
-Hash inteiro RIPEMD-128 gerado para a chave: id211: 2
-Hash inteiro RIPEMD-128 gerado para a chave: id212: 64
-Hash inteiro RIPEMD-128 gerado para a chave: id213: 278
-Hash inteiro RIPEMD-128 gerado para a chave: id214: 57
-Hash inteiro RIPEMD-128 gerado para a chave: id215: 134
-Hash inteiro RIPEMD-128 gerado para a chave: id216: 75
-Hash inteiro RIPEMD-128 gerado para a chave: id217: 169
-Hash inteiro RIPEMD-128 gerado para a chave: id218: 309
-Hash inteiro RIPEMD-128 gerado para a chave: id219: 274
-Hash inteiro RIPEMD-128 gerado para a chave: id220: 123
-Hash inteiro RIPEMD-128 gerado para a chave: id221: 169
-Hash inteiro RIPEMD-128 gerado para a chave: id222: 308
-Hash inteiro RIPEMD-128 gerado para a chave: id223: 238
-Hash inteiro RIPEMD-128 gerado para a chave: id224: 359
-Hash inteiro RIPEMD-128 gerado para a chave: id225: 10
-Hash inteiro RIPEMD-128 gerado para a chave: id226: 1
-Hash inteiro RIPEMD-128 gerado para a chave: id227: 208
-Hash inteiro RIPEMD-128 gerado para a chave: id228: 428
-Hash inteiro RIPEMD-128 gerado para a chave: id229: 344
-Hash inteiro RIPEMD-128 gerado para a chave: id230: 355
-Hash inteiro RIPEMD-128 gerado para a chave: id231: 263
-Hash inteiro RIPEMD-128 gerado para a chave: id232: 157
-Hash inteiro RIPEMD-128 gerado para a chave: id233: 296
-Hash inteiro RIPEMD-128 gerado para a chave: id234: 5
-Hash inteiro RIPEMD-128 gerado para a chave: id235: 206
-Hash inteiro RIPEMD-128 gerado para a chave: id236: 469
-Hash inteiro RIPEMD-128 gerado para a chave: id237: 426
-Hash inteiro RIPEMD-128 gerado para a chave: id238: 258
-Hash inteiro RIPEMD-128 gerado para a chave: id239: 345
-Hash inteiro RIPEMD-128 gerado para a chave: id240: 252
-Hash inteiro RIPEMD-128 gerado para a chave: id241: 217
-Hash inteiro RIPEMD-128 gerado para a chave: id242: 374
-Hash inteiro RIPEMD-128 gerado para a chave: id243: 453
-Hash inteiro RIPEMD-128 gerado para a chave: id244: 299
-Hash inteiro RIPEMD-128 gerado para a chave: id245: 275
-Hash inteiro RIPEMD-128 gerado para a chave: id246: 152
-Hash inteiro RIPEMD-128 gerado para a chave: id247: 259
-Hash inteiro RIPEMD-128 gerado para a chave: id248: 211
-Hash inteiro RIPEMD-128 gerado para a chave: id249: 11
-Hash inteiro RIPEMD-128 gerado para a chave: id250: 444
-Hash inteiro RIPEMD-128 gerado para a chave: id251: 322
-Hash inteiro RIPEMD-128 gerado para a chave: id252: 594
-Hash inteiro RIPEMD-128 gerado para a chave: id253: 493
-Hash inteiro RIPEMD-128 gerado para a chave: id254: 150
-Hash inteiro RIPEMD-128 gerado para a chave: id255: 412
-Hash inteiro RIPEMD-128 gerado para a chave: id256: 184
-Hash inteiro RIPEMD-128 gerado para a chave: id257: 283
-Hash inteiro RIPEMD-128 gerado para a chave: id258: 527
-Hash inteiro RIPEMD-128 gerado para a chave: id259: 517
-Hash inteiro RIPEMD-128 gerado para a chave: id260: 195
-Hash inteiro RIPEMD-128 gerado para a chave: id261: 443
-Hash inteiro RIPEMD-128 gerado para a chave: id262: 278
-Hash inteiro RIPEMD-128 gerado para a chave: id263: 548
-Hash inteiro RIPEMD-128 gerado para a chave: id264: 401
-Hash inteiro RIPEMD-128 gerado para a chave: id265: 13
-Hash inteiro RIPEMD-128 gerado para a chave: id266: 324
-Hash inteiro RIPEMD-128 gerado para a chave: id267: 482
-Hash inteiro RIPEMD-128 gerado para a chave: id268: 456
-Hash inteiro RIPEMD-128 gerado para a chave: id269: 239
-Hash inteiro RIPEMD-128 gerado para a chave: id270: 188
-Hash inteiro RIPEMD-128 gerado para a chave: id271: 249
-Hash inteiro RIPEMD-128 gerado para a chave: id272: 162
-Hash inteiro RIPEMD-128 gerado para a chave: id273: 234
-Hash inteiro RIPEMD-128 gerado para a chave: id274: 355
-Hash inteiro RIPEMD-128 gerado para a chave: id275: 587
-Hash inteiro RIPEMD-128 gerado para a chave: id276: 515
-Hash inteiro RIPEMD-128 gerado para a chave: id277: 581
-Hash inteiro RIPEMD-128 gerado para a chave: id278: 438
-Hash inteiro RIPEMD-128 gerado para a chave: id279: 45
-Hash inteiro RIPEMD-128 gerado para a chave: id280: 527
-Hash inteiro RIPEMD-128 gerado para a chave: id281: 189
-Hash inteiro RIPEMD-128 gerado para a chave: id282: 606
-Hash inteiro RIPEMD-128 gerado para a chave: id283: 351
-Hash inteiro RIPEMD-128 gerado para a chave: id284: 576
-Hash inteiro RIPEMD-128 gerado para a chave: id285: 575
-Hash inteiro RIPEMD-128 gerado para a chave: id286: 569
-Hash inteiro RIPEMD-128 gerado para a chave: id287: 549
-Hash inteiro RIPEMD-128 gerado para a chave: id288: 25
-Hash inteiro RIPEMD-128 gerado para a chave: id289: 270
-Hash inteiro RIPEMD-128 gerado para a chave: id290: 380
-Hash inteiro RIPEMD-128 gerado para a chave: id291: 103
-Hash inteiro RIPEMD-128 gerado para a chave: id292: 538
-Hash inteiro RIPEMD-128 gerado para a chave: id293: 496
-Hash inteiro RIPEMD-128 gerado para a chave: id294: 32
-Hash inteiro RIPEMD-128 gerado para a chave: id295: 522
-Hash inteiro RIPEMD-128 gerado para a chave: id296: 293
-Hash inteiro RIPEMD-128 gerado para a chave: id297: 91
-Hash inteiro RIPEMD-128 gerado para a chave: id298: 253
-Hash inteiro RIPEMD-128 gerado para a chave: id299: 22
-Hash inteiro RIPEMD-128 gerado para a chave: id300: 420
+Criptografia do elemento de (id0), (Roberto;): 1ca20d702e118346200ecb1eb3f8b097
+Criptografia do elemento de (id1), (Maria;): b7fc4528fb8a00ef26083f5dfab1c838
+Criptografia do elemento de (id2), (João;): 6db8895e3ce6ac79f9c6a5c4e6933571
+Criptografia do elemento de (id3), (Ana;): 13b8011bbbd353795c2e5a9e2f39ee2d
+Criptografia do elemento de (id4), (Carlos;): 414868efb099a54597a55471d08d89ad
+Criptografia do elemento de (id5), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id6), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id7), (Sofia;): ae85786e9c28d6aabbc41c1e97702ef1
+Criptografia do elemento de (id8), (Gabriel;): 1cc345162b92ce24ab15990be16f1813
+Criptografia do elemento de (id9), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id10), (Lucas;): c99ef63ab04c58a92ff298d3cbcca90e
+Criptografia do elemento de (id11), (Mariana;): 09543023f0ad89f2ec52693703bd58ef
+Criptografia do elemento de (id12), (Guilherme;): cfe7687b34cf7d8d844ff4b47bffe09e
+Criptografia do elemento de (id13), (Valentina;): d6d51115ebe1ee695a4400495cba0b61
+Criptografia do elemento de (id14), (Rafael;): b6460049b37141576a566b715dc69dc0
+Criptografia do elemento de (id15), (Isabela;): 4b0f4ab7841b8bff2c92bb73db883629
+Criptografia do elemento de (id16), (Matheus;): 560eae39dd7c55929c7058601e63dee6
+Criptografia do elemento de (id17), (Beatriz;): dc25f26e6524753725d03763eb6c65df
+Criptografia do elemento de (id18), (Thiago;): b0d4082de1937ae585e7c28e7025b957
+Criptografia do elemento de (id19), (Giovanna;): 7446d5ccc3fe52625f850848764d0fcf
+Criptografia do elemento de (id20), (Bruno;): c3b1ba807110f21523b25e621edfadfe
+Criptografia do elemento de (id21), (Juliana;): 67f7ee29376ed772b7a0a6ef6903f415
+Criptografia do elemento de (id22), (Eduardo;): a5b85f1fbe91270dfaed416fdc0afc27
+Criptografia do elemento de (id23), (Carolina;): ffd72b6a82490d11aff2334e21926bcd
+Criptografia do elemento de (id24), (Felipe;): 3f1c9f1b7121a20b530503183b63c81c
+Criptografia do elemento de (id25), (Vitória;): 393ad7f31dac1240f1020ddbbdcff9d5
+Criptografia do elemento de (id26), (André;): 0f9fdcac18afcff79da8dde426acc2a0
+Criptografia do elemento de (id27), (Manuela;): 2194be90a8370a172688833288e4c010
+Criptografia do elemento de (id28), (Gustavo;): fda7a180887319eb5e3b7e2b2223c83d
+Criptografia do elemento de (id29), (Amanda;): 40155d133e8d6b86fbcab3c6f9490825
+Criptografia do elemento de (id30), (Daniel;): 61b980d17702c6f395c9c54a21243339
+Criptografia do elemento de (id31), (Larissa;): 5abe2736d2da2d58775e2e3592495d12
+Criptografia do elemento de (id32), (José;): ed7912f10d95c7d7cced90bfe2625eb1
+Criptografia do elemento de (id33), (Luiza;): 464cf8ecd1aae336d196c38ccf9d1a23
+Criptografia do elemento de (id34), (Leonardo;): cf499bc83b9c15b1c287f7494a39b7a6
+Criptografia do elemento de (id35), (Camila;): 081d047221e3b14902e129c9186ce5f3
+Criptografia do elemento de (id36), (Caio;): c5cc284f412f62e6fe0ed2433cf2c21c
+Criptografia do elemento de (id37), (Fernanda;): 50382bff393f8110ae998f963aec434f
+Criptografia do elemento de (id38), (Rodrigo;): 9cb4cd980d58bb8aef168004997a1bb8
+Criptografia do elemento de (id39), (Débora;): fb5740794b39b1b44b6bf28b71bf1ba8
+Criptografia do elemento de (id40), (Matias;): d2b672eb9f3fa2e06a9de7c0e5c38458
+Criptografia do elemento de (id41), (Lívia;): d543869992b8572112df2bd792e3c8b9
+Criptografia do elemento de (id42), (Eduardo;): a5b85f1fbe91270dfaed416fdc0afc27
+Criptografia do elemento de (id43), (Júlia;): 31b4d1a5885befe1a5dbfea10923949c
+Criptografia do elemento de (id44), (Miguel;): 250735cfca60aba29a8ae1548198e7a0
+Criptografia do elemento de (id45), (Leticia;): ae55157c55b859687af9c15fc4bf5f25
+Criptografia do elemento de (id46), (Paulo;): d173c59158ae1b9b29bb7332a95ae57f
+Criptografia do elemento de (id47), (Renata;): e254f7788c2a618e2b632792d9657ae9
+Criptografia do elemento de (id48), (Victor;): c51c92d3d1b897d7848d5ff187cc09a4
+Criptografia do elemento de (id49), (Isadora;): 9abc320510e8881e30ac0850609a8676
+Criptografia do elemento de (id50), (Marcos;): b69b01489815ca6dcf3987c4875c2cc3
+Criptografia do elemento de (id51), (Bruna;): f52dbc3e83390e829af0745532a67914
+Criptografia do elemento de (id52), (Natália;): 939d682f48fdadd5dd6018c5dc9ce80f
+Criptografia do elemento de (id53), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id54), (Ana;): 13b8011bbbd353795c2e5a9e2f39ee2d
+Criptografia do elemento de (id55), (Lucas;): c99ef63ab04c58a92ff298d3cbcca90e
+Criptografia do elemento de (id56), (Sofia;): ae85786e9c28d6aabbc41c1e97702ef1
+Criptografia do elemento de (id57), (Gabriel;): 1cc345162b92ce24ab15990be16f1813
+Criptografia do elemento de (id58), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id59), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id60), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id61), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id62), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id63), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id64), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id65), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id66), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id67), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id68), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id69), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id70), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id71), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id72), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id73), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id74), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id75), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id76), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id77), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id78), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id79), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id80), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id81), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id82), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id83), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id84), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id85), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id86), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id87), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id88), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id89), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id90), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id91), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id92), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id93), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id94), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id95), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id96), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id97), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id98), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id99), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id100), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id101), (Roberto;): 1ca20d702e118346200ecb1eb3f8b097
+Criptografia do elemento de (id102), (Maria;): b7fc4528fb8a00ef26083f5dfab1c838
+Criptografia do elemento de (id103), (João;): 6db8895e3ce6ac79f9c6a5c4e6933571
+Criptografia do elemento de (id104), (Ana;): 13b8011bbbd353795c2e5a9e2f39ee2d
+Criptografia do elemento de (id105), (Carlos;): 414868efb099a54597a55471d08d89ad
+Criptografia do elemento de (id106), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id107), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id108), (Sofia;): ae85786e9c28d6aabbc41c1e97702ef1
+Criptografia do elemento de (id109), (Gabriel;): 1cc345162b92ce24ab15990be16f1813
+Criptografia do elemento de (id110), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id111), (Lucas;): c99ef63ab04c58a92ff298d3cbcca90e
+Criptografia do elemento de (id112), (Mariana;): 09543023f0ad89f2ec52693703bd58ef
+Criptografia do elemento de (id113), (Guilherme;): cfe7687b34cf7d8d844ff4b47bffe09e
+Criptografia do elemento de (id114), (Valentina;): d6d51115ebe1ee695a4400495cba0b61
+Criptografia do elemento de (id115), (Rafael;): b6460049b37141576a566b715dc69dc0
+Criptografia do elemento de (id116), (Isabela;): 4b0f4ab7841b8bff2c92bb73db883629
+Criptografia do elemento de (id117), (Matheus;): 560eae39dd7c55929c7058601e63dee6
+Criptografia do elemento de (id118), (Beatriz;): dc25f26e6524753725d03763eb6c65df
+Criptografia do elemento de (id119), (Thiago;): b0d4082de1937ae585e7c28e7025b957
+Criptografia do elemento de (id120), (Giovanna;): 7446d5ccc3fe52625f850848764d0fcf
+Criptografia do elemento de (id121), (Bruno;): c3b1ba807110f21523b25e621edfadfe
+Criptografia do elemento de (id122), (Juliana;): 67f7ee29376ed772b7a0a6ef6903f415
+Criptografia do elemento de (id123), (Eduardo;): a5b85f1fbe91270dfaed416fdc0afc27
+Criptografia do elemento de (id124), (Carolina;): ffd72b6a82490d11aff2334e21926bcd
+Criptografia do elemento de (id125), (Felipe;): 3f1c9f1b7121a20b530503183b63c81c
+Criptografia do elemento de (id126), (Vitória;): 393ad7f31dac1240f1020ddbbdcff9d5
+Criptografia do elemento de (id127), (André;): 0f9fdcac18afcff79da8dde426acc2a0
+Criptografia do elemento de (id128), (Manuela;): 2194be90a8370a172688833288e4c010
+Criptografia do elemento de (id129), (Gustavo;): fda7a180887319eb5e3b7e2b2223c83d
+Criptografia do elemento de (id130), (Amanda;): 40155d133e8d6b86fbcab3c6f9490825
+Criptografia do elemento de (id131), (Daniel;): 61b980d17702c6f395c9c54a21243339
+Criptografia do elemento de (id132), (Larissa;): 5abe2736d2da2d58775e2e3592495d12
+Criptografia do elemento de (id133), (José;): ed7912f10d95c7d7cced90bfe2625eb1
+Criptografia do elemento de (id134), (Luiza;): 464cf8ecd1aae336d196c38ccf9d1a23
+Criptografia do elemento de (id135), (Leonardo;): cf499bc83b9c15b1c287f7494a39b7a6
+Criptografia do elemento de (id136), (Camila;): 081d047221e3b14902e129c9186ce5f3
+Criptografia do elemento de (id137), (Caio;): c5cc284f412f62e6fe0ed2433cf2c21c
+Criptografia do elemento de (id138), (Fernanda;): 50382bff393f8110ae998f963aec434f
+Criptografia do elemento de (id139), (Rodrigo;): 9cb4cd980d58bb8aef168004997a1bb8
+Criptografia do elemento de (id140), (Débora;): fb5740794b39b1b44b6bf28b71bf1ba8
+Criptografia do elemento de (id141), (Matias;): d2b672eb9f3fa2e06a9de7c0e5c38458
+Criptografia do elemento de (id142), (Lívia;): d543869992b8572112df2bd792e3c8b9
+Criptografia do elemento de (id143), (Eduardo;): a5b85f1fbe91270dfaed416fdc0afc27
+Criptografia do elemento de (id144), (Júlia;): 31b4d1a5885befe1a5dbfea10923949c
+Criptografia do elemento de (id145), (Miguel;): 250735cfca60aba29a8ae1548198e7a0
+Criptografia do elemento de (id146), (Leticia;): ae55157c55b859687af9c15fc4bf5f25
+Criptografia do elemento de (id147), (Paulo;): d173c59158ae1b9b29bb7332a95ae57f
+Criptografia do elemento de (id148), (Renata;): e254f7788c2a618e2b632792d9657ae9
+Criptografia do elemento de (id149), (Victor;): c51c92d3d1b897d7848d5ff187cc09a4
+Criptografia do elemento de (id150), (Isadora;): 9abc320510e8881e30ac0850609a8676
+Criptografia do elemento de (id151), (Marcos;): b69b01489815ca6dcf3987c4875c2cc3
+Criptografia do elemento de (id152), (Bruna;): f52dbc3e83390e829af0745532a67914
+Criptografia do elemento de (id153), (Natália;): 939d682f48fdadd5dd6018c5dc9ce80f
+Criptografia do elemento de (id154), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id155), (Ana;): 13b8011bbbd353795c2e5a9e2f39ee2d
+Criptografia do elemento de (id156), (Lucas;): c99ef63ab04c58a92ff298d3cbcca90e
+Criptografia do elemento de (id157), (Sofia;): ae85786e9c28d6aabbc41c1e97702ef1
+Criptografia do elemento de (id158), (Gabriel;): 1cc345162b92ce24ab15990be16f1813
+Criptografia do elemento de (id159), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id160), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id161), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id162), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id163), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id164), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id165), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id166), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id167), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id168), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id169), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id170), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id171), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id172), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id173), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id174), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id175), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id176), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id177), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id178), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id179), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id180), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id181), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id182), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id183), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id184), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id185), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id186), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id187), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id188), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id189), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id190), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id191), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id192), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id193), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id194), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id195), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id196), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id197), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id198), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id199), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id200), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id201), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id202), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id203), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id204), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id205), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id206), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id207), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id208), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id209), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id210), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id211), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id212), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id213), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id214), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id215), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id216), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id217), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id218), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id219), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id220), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id221), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id222), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id223), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id224), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id225), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id226), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id227), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id228), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id229), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id230), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id231), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id232), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id233), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id234), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id235), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id236), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id237), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id238), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id239), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id240), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id241), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id242), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id243), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id244), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id245), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id246), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id247), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id248), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id249), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id250), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id251), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id252), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id253), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id254), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id255), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id256), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id257), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id258), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id259), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id260), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id261), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id262), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id263), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id264), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id265), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id266), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id267), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id268), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id269), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id270), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id271), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id272), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id273), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id274), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id275), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id276), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id277), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id278), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id279), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id280), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id281), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id282), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id283), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id284), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id285), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id286), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id287), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id288), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id289), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id290), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id291), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id292), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id293), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id294), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id295), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id296), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id297), (Clara;): b50e0aaf2b334631b21f74795eac702d
+Criptografia do elemento de (id298), (Laura;): 2781377a465d0870c541bfca12c15d2c
+Criptografia do elemento de (id299), (Pedro;): 05604ce0b015c73cbeab5a48da2b3d58
+Criptografia do elemento de (id300), (Clara;): b50e0aaf2b334631b21f74795eac702d

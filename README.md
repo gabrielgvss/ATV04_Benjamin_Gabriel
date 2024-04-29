@@ -4,8 +4,8 @@
 
 > Status geral do projeto: em desenvolvimento (Questão 02) -> TABELA HASH COM RIPMD128 
 
-> Status de andamento atual / Última mudança principal: Implementação do ripemd128 pra gerar hash
+> Status de andamento atual / Última mudança principal: Implementação da entrada e saida de arquivo com ripemd128 pra gerar hash
 
-> Problemática atual: Como "traduzir" o hash gerado pra chave de input???????;
+> Problemática atual: None;
 
-> Observação: Mesmo que a "traducao" nao seja possivel é necessario mais testes com o projeto atual;
+> Observação: Realizar testagem;
