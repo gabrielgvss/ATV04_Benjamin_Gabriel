@@ -4,8 +4,8 @@
 
 > Status geral do projeto: em desenvolvimento (Questão 01) -> TABELA HASH GERAL
 
-> Status de andamento atual / Última mudança principal: criação da Tabela Hash da Q1 com tratamento de colisões com árvores nos buckets e rehashing
+> Status de andamento atual / Última mudança principal: conclusão do desenvolvimento da Tabela Hash da Q1 com tratamento de colisões com listas encadeadas nos buckets, além do rehashing
 
 > Problemática atual: None;
 
-> Observação: falta desenvolver o input de elementos e manejo de operações por arquivo e testar rehashing;
+> Observação: falta desenvolver o input de elementos e manejo de operações por arquivo;
