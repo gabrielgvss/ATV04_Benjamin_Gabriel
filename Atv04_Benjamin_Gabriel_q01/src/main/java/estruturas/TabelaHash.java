@@ -1,5 +1,9 @@
 package estruturas;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
 public class TabelaHash<Chave, Valor> {
     private int tamanho;
     private int elementosInseridos;
@@ -15,6 +19,25 @@ public class TabelaHash<Chave, Valor> {
         this.tabela = new ListaEncadeada[tamanho];
         for (int i = 0; i < tamanho; i++) {
             tabela[i] = new ListaEncadeada<>();
+        }
+        inserirDeArquivo();
+    }
+
+    public void inserirDeArquivo() {
+        try (BufferedReader reader = new BufferedReader(new FileReader("src/main/java/estruturas/entrada.txt"))) {
+            String linha;
+            while ((linha = reader.readLine()) != null) {
+                String[] partes = linha.split(",");
+                if (partes.length == 2) {
+                    Chave chave = (Chave) partes[0].trim();
+                    Valor valor = (Valor) partes[1].trim();
+                    inserir(chave, valor);
+                } else {
+                    System.err.println("Formato de linha inválido: " + linha);
+                }
+            }
+        } catch (IOException e) {
+            System.err.println("Erro ao ler o arquivo: " + e.getMessage());
         }
     }
 
@@ -110,9 +133,9 @@ public class TabelaHash<Chave, Valor> {
         System.out.println("Tabela Hash");
         for (int i = 0; i < tamanho; i++) {
             ListaEncadeada<Entrada<Chave, Valor>> lista = tabela[i];
-            System.out.print("Slot " + i + ": ");
+            System.out.print("Bucket " + i + ": ");
             if (lista.getTamanho() == 0) {
-                System.out.println(" ");
+                System.out.println("null");
             } else {
                 for (Entrada<Chave, Valor> entrada : lista) {
                     System.out.print("(" + entrada.getChave() + ", " + entrada.getValor() + ") ");
