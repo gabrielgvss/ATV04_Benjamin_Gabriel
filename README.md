@@ -1,11 +1,11 @@
 <h1> ATIVIDADE DE TABELA HASH UTILIZANDO ALGORITMO RIPEMD-128</h1>
-<h2> Atividade em dupla de desenvolvimento de tabela Hash em Java utilizando algoritmo de criptografia RIPE-128 para hashing</h2>
+<h2> Atividade em dupla de desenvolvimento de tabela Hash em Java utilizando algoritmo de criptografia RIPEMD-128 para hashing</h2>
 <h3>Favor destacar no readme status de andamento/ mudança principal e problema (caso haja) cada atualização</h3>
 
-> Status geral do projeto: em desenvolvimento (Questão 01) -> TABELA HASH GERAL
+> Status geral do projeto: em desenvolvimento (Questão 02) -> TABELA HASH COM RIPMD128 
 
-> Status de andamento atual / Última mudança principal: conclusão do desenvolvimento da Tabela Hash da Q1 com tratamento de colisões com listas encadeadas nos buckets, além do rehashing
+> Status de andamento atual / Última mudança principal: Implementação do ripemd128 pra gerar hash
 
-> Problemática atual: None;
+> Problemática atual: Como "traduzir" o hash gerado pra chave de input???????;
 
-> Observação: falta desenvolver o input de elementos e manejo de operações por arquivo;
+> Observação: Mesmo que a "traducao" nao seja possivel é necessario mais testes com o projeto atual;
